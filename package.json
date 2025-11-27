@@ -1,0 +1,16 @@
+{
+  "name": "user-data-transformer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user-data-transformer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
